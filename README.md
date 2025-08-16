@@ -1,5 +1,8 @@
 ![Fitlife Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
+## Live demo 
+https://gymmng.netlify.app/
+
 ### Prerequisites
 
 ### Run Locally
